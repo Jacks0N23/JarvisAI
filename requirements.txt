@@ -1,4 +1,4 @@
-Flask==0.12.2
+Flask==1.0
 gensim==3.7.3
 html2text==2016.9.19
 jsonschema==2.4.0
